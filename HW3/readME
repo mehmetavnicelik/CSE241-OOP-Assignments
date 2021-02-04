@@ -1,0 +1,6 @@
+I created an array for playing different games at the same time. Totally 5 games can be played at the same time by default.
+The board size should be larger than 5 and lower than 27 because of the amount of letters in the alphabet.
+
+HOW TO PLAY
+-------------
+Instead of making move, if you type MENU (like SAVE or LOAD commands)the game will be stopped and you will go back to the main menu.  
