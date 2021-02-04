@@ -1,0 +1,17 @@
+________________________________________________________________
+HOW TO PLAY
+-------------
+Instead of making move, if you type MENU (like SAVE or LOAD commands)the game will be stopped and you will go back to the main menu. You can just follow the insturctors.
+
+Instead of making move, if you type UNDO (like SAVE or LOAD commands)the last move will be deleted. Also the player which use UNDO comment will give his turn to the other player.
+
+All other playing rules are no different than the other homeworks' games.
+________________________________________________________________________________________________
+SOME NEW FEATURES
+---------------------------
+1)   Dynamic memory allocation is done.
+2)   Explicit and nullptr keywords are used.
+3)   Big three is defined but no need to use.
+4)   The new selections those are wanted in the assignment are added to the menu.
+5)   Seperated Compilation Unit.
+__________________________________________________________________________________________________
